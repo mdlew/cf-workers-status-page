@@ -18,7 +18,7 @@ monitors:
   - id: lewlab-wustl-edu # unique identifier
     name: Lew Lab main
     description: '' # default=empty
-    url: 'https://lewlab.wustl.edu/' # URL to fetch
+    url: 'https://lewlab.wustl.edu/favicon.svg' # URL to fetch
     method: GET # default=GET
     expectStatus: 200 # operational status, default=200
     followRedirect: false # should fetch follow redirects, default=false
